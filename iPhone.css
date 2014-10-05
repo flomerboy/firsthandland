@@ -116,7 +116,7 @@ body {
 {
 	background: url(immersive.jpg);
 	padding-bottom: 1em;
-	
+	max-height: 24em;
 }
 
 #eyeballDiv
