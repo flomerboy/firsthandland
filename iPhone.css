@@ -24,7 +24,7 @@ h1 {
 h2 {
 	padding-top:2.5em;
 	padding-left: 5em;
-	padding-right: 6em;
+	padding-right: 6 em;
 	padding-bottom: 2em;
 	font-family: 'Roboto', sans-serif;
 	font-weight: 400;
@@ -132,7 +132,7 @@ img {
 {
 	position:fixed;
 	background-color:rgba(255,255,255,.93);
-	left: 2.9em;
+	left: 2.9rem;
 	border-bottom-left-radius:5px;
 	border-bottom-right-radius:5px;
 	z-index: 2;
