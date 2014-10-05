@@ -75,15 +75,6 @@ body {
 	background-color: rgba(0,0,0,.015);
 }
 
-img {
-}
-
-.thumbnail
-{
-	border-radius:5px;
-	transition: box-shadow .5s;
-}
-
 .thumbnail:hover{
 	box-shadow: 10px 10px 20px rgba(0,0,0,.15);
 }
@@ -137,6 +128,7 @@ img {
 	border-bottom-right-radius:5px;
 	z-index: 2;
 	box-shadow: 10px 10px 20px rgba(0,0,0,.15);
+	width: 
 }
 
 #browserPic
@@ -154,6 +146,11 @@ img {
 	max-width: 300px;
 }
 
+#eyeballDiv{
+	min-width: 75px;
+	min-height: 75px;
+}
+
 #eyeballImg{
-	min-width: 100px;
+	text-align: center;
 }
