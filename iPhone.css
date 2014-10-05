@@ -155,5 +155,5 @@ img {
 }
 
 #eyeballImg{
-	width:4em;
+	min-width: 50px;
 }
