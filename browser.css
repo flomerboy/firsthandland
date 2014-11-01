@@ -64,7 +64,7 @@ a {
 /* POSITIONING */
 
 /*html and body reset to kill that gross border that tries to be there by default*/
-html, div {
+html, div, figure, img {
 	margin:0px;
 	padding:0px;
 }
@@ -75,8 +75,6 @@ body {
 	background-color: rgba(0,0,0,.015);
 }
 
-img {
-}
 
 .thumbnail
 {
@@ -146,4 +144,15 @@ img {
 {
 	background: url(brand.png);
 	min-height: 30em;
+}
+
+#vid {
+	background-color:#ed342f;
+}
+
+iframe {
+
+	padding-left:12em;
+	padding-top: 2em;
+	padding-bottom: 2em;
 }
